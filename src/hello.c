@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
- // para exibir uma mensagem na tela iremos usar
+ // para exibir uma mensagem na tela iremos utilizar
  // o comando printf(exibir formatando)
  printf("hello, World!\n");   
 // informar ao compilador que o programa 
