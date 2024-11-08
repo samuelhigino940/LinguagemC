@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "../lib/teste.h"
+
 int main(){
     int n;
     printf("Digite um Número e tecle enter\n");
